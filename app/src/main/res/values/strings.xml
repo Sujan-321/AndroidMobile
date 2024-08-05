@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">LinearLayout</string>
+    <string name="to">Receiver</string>
+    <string name="subject">Subject</string>
+    <string name="message">message</string>
+    <string name="send">send</string>
+    <string name="done">done</string>
+    <string name="remainder">remainder</string>
+    <string name="planets">planets</string>
+    <string name="select_option">select_option</string>
+
+    <string-array name="planets_array">
+        <item>--Planets--</item>
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+
+    <string-array name="weekday">
+        <item>Day</item>
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+    </string-array>
+</resources>
+
